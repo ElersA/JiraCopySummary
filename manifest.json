@@ -3,9 +3,8 @@
 	"manifest_version": 2,
 	"name": "JiraCopySummary",
 	"version": "1.0",
-
+	"homepage_url":"https://github.com/ElersA/JiraCopySummary",
 	"description": "Copies an issues tag and summary to clipboard via a shortcut. Source code available at ",
-
 	"icons": {
 		"48": "icons/icons8-copy-48.png",
 		"96": "icons/icons8-copy-96.png"
